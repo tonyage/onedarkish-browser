@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "Onedark-ish",
+        "description": "Onedark-ish theme"
+    },
+
+    "extensionDescription": {
+        "message": "Onedark base theme with my variations on the base gray palette.",
+        "description": "Description of the extension"
+    },
+
+    "extensionAuthor": {
+        "message": "Tony Do",
+        "description": "Name of author"
+    }
+}

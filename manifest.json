@@ -1,0 +1,36 @@
+{
+    "manifest_version": 2,
+    "version": "1.0.5",
+
+    "default_locale": "en",
+    "name": "__MSG_extensionName__",
+    "description": "__MSG_extensionDescription__",
+    "author": "__MSG_extensionAuthor__",
+
+    "theme": {
+        "colors": {
+            "bookmark_text": "white",
+            "button_background_active": "#343434",
+            "button_background_hover": "#343434",
+            "frame": "black",
+            "icons": "white",
+            "popup": "#343434",
+            "popup_text": "white",
+            "popup_highlight": "#61afef",
+            "ntp_background": "#1a1a1a",
+            "ntp_text": "white",
+            "sidebar": "#272727",
+            "sidebar_border": "#272727",
+            "sidebar_highlight": "#61afef",
+            "sidebar_text": "white",
+            "tab_line": "#61afef",
+            "tab_text": "white",
+            "tab_background_text": "#abb2bf",
+            "toolbar": "#272727",
+            "toolbar_field": "#343434",
+            "toolbar_field_text": "white",
+            "toolbar_field_border": "transparent",
+            "toolbar_field_highlight_text": "white"
+        }
+    }
+}
