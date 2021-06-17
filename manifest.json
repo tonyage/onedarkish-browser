@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "version": "1.0.5",
+    "version": "1.0.6",
 
     "default_locale": "en",
     "name": "__MSG_extensionName__",
@@ -30,6 +30,7 @@
             "toolbar_field": "#343434",
             "toolbar_field_text": "white",
             "toolbar_field_border": "transparent",
+            "toolbar_field_highlight": "#61afef",
             "toolbar_field_highlight_text": "white"
         }
     }
