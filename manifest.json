@@ -9,29 +9,29 @@
 
     "theme": {
         "colors": {
-            "bookmark_text": [ 255, 255, 255 ],
-            "button_background_active": [ 52, 52, 52 ],
-            "button_background_hover": [ 52, 52, 52 ],
+            "bookmark_text": [ 233, 234, 236 ],
+            "button_background_active": [ 233, 234, 236 ],
+            "button_background_hover": [ 233, 234, 236 ],
             "frame": [ 0, 0, 0 ],
             "frame_inactive": [ 0, 0, 0 ],
-            "icons": [ 255, 255, 255 ],
+            "icons": [ 233, 234, 236 ],
             "popup": [ 52, 52 ,52 ],
-            "popup_text": [ 255, 255, 255 ],
+            "popup_text": [ 233, 234, 236 ],
             "popup_highlight": [ 97, 175, 239 ],
             "ntp_background": [ 26, 26, 26 ],
-            "ntp_text": [ 255, 255, 255 ],
+            "ntp_text": [ 233, 234, 236 ],
             "sidebar": [ 39, 39, 39 ],
             "sidebar_border": [ 39, 39, 39 ],
             "sidebar_highlight": [ 97, 175, 239 ],
-            "sidebar_text": [ 255, 255, 255 ],
+            "sidebar_text": [ 233, 234, 236 ],
             "tab_line": [ 97, 175, 239 ],
-            "tab_text": [ 255, 255, 255 ],
+            "tab_text": [ 233, 234, 236 ],
             "tab_background_text": [ 171, 178, 191 ],
             "toolbar": [ 39, 39, 39 ],
             "toolbar_field": [ 52, 52, 52 ],
-            "toolbar_field_text": [ 255, 255, 255 ],
+            "toolbar_field_text": [ 233, 234, 236 ],
             "toolbar_field_highlight": [ 97, 175, 239 ],
-            "toolbar_field_highlight_text": [255, 255, 255]
+            "toolbar_field_highlight_text": [ 233, 234, 236 ]
         }
     }
 }
